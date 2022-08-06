@@ -7,18 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/ykjinxz" target="blank"><img src="https://img.shields.io/twitter/follow/ykjinxz?logo=twitter&style=for-the-badge" alt="ykJINXZ" /></a> </p>
 
-- 🔭 I’m currently working on [SkidWare Nuker](https://github.com/NotJINXZ/SkidWare-Nuker/releases)
+- 🔭 I’m currently working on nothing
 
-- 👨‍💻 All of my projects are available at [Coming Soon!](Coming Soon!)
-
-- 📫 How to reach me **Gh0st JINXZ#3697 on discord**
+- 📫 How to reach me **JINXZ#0001 on discord**
 
 - ⚡ Fun fact **I have been coding for 8+ years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ykJINXZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_jinxz" height="30" width="40" /></a>
-<a href="https://discord.gg/QWAxfm9apZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QWAxfm9apZ" height="30" width="40" /></a>
+<a href="https://twitter.com/ykJINXZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ykJINXZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
