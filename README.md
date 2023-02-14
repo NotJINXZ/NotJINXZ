@@ -8,6 +8,7 @@
 - 👨‍💻 My website: [https://jinxz.dev](https://jinxz.dev)
 
 - 💬 Ask me about **anything**
+- More than 50% of my repositories are private
 
 - 📫 How to reach me **hey@jinxz.dev**
 
