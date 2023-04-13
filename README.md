@@ -10,7 +10,7 @@
 - 💬 Ask me about **anything**
 - More than 50% of my repositories are private
 
-- 📫 How to reach me **hey@jinxz.wtf**
+- 📫 How to reach me **hey@jinxz.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
